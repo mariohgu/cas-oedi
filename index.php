@@ -83,7 +83,7 @@ function mostrarAbierta($index) {
 <body class="bg-gray-50">
 <div class="max-w-6xl mx-auto px-4 py-8" id="app">
 <!-- Barra de Notificaciones -->
-<div class="bg-yellow-50 border-l-4 border-yellow-400 p-4 mb-6 rounded-md shadow-sm">
+<!-- <div class="bg-yellow-50 border-l-4 border-yellow-400 p-4 mb-6 rounded-md shadow-sm">
   <div class="flex items-start">
     <div class="flex-shrink-0">
       <svg class="h-5 w-5 text-yellow-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
@@ -92,7 +92,7 @@ function mostrarAbierta($index) {
     </div>
     <div class="ml-3">
       <p class="text-sm text-yellow-700 font-medium">
-        Aviso importante: Para cualquier consulta envie un correo a <a href="mailto:rrhh@oedi.gob.pe" class="text-yellow-700 hover:text-yellow-900">rrhh@oedi.gob.pe</a>. 
+        Aviso importante: Para cualquier consulta envie un correo a <a href="mailto:rrhh1@oedi.gob.pe" class="text-yellow-700 hover:text-yellow-900">rrhh1@oedi.gob.pe</a>. 
         
       </p>
     </div>
@@ -107,7 +107,7 @@ function mostrarAbierta($index) {
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
 <!-- Logo y Cabecera -->
 <div class="flex justify-center mb-6">
