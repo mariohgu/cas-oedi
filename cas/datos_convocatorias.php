@@ -11,41 +11,6 @@
 $convocatorias = array (
   0 => 
   array (
-    'id' => 68,
-    'numero' => '068',
-    'anio' => '2025',
-    'fecha_publicacion' => '04/05/2025',
-    'puesto' => 'un loco arquitectoyyyyyy',
-    'categoria' => 'Arquitectura',
-    'bases_anexos' => 
-    array (
-      0 => 
-      array (
-        'titulo' => 'estos serian los anexos',
-        'url' => 'https://oedigob-my.sharepoint.com/personal/tecnologia_oedi_gob_pe/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ftecnologia%5Foedi%5Fgob%5Fpe%2FDocuments%2FCONVOCATORIA2025%2FGrupo%2004%2F62%2FANEXO%20A%20BASES%20DEL%20PROCESO%20DE%20SELECCI%C3%93N%20SECCI%C3%93N%20ESPEC%C3%8DFICA%20%2D%20CAS%20062%2D2025%2DOEDI%2Epdf&parent=%2Fpersonal%2Ftecnologia%5Foedi%5Fgob%5Fpe%2FDocuments%2FCONVOCATORIA2025%2FGrupo%2004%2F62&ga=1',
-      ),
-    ),
-    'resultados' => 
-    array (
-      0 => 
-      array (
-        'titulo' => 'evaluacion preliminar',
-        'url' => 'https://oedigob-my.sharepoint.com/personal/admin_oedi_gob_pe/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fadmin%5Foedi%5Fgob%5Fpe%2FDocuments%2FCAS%2FRESULTADOS%20DE%20EVALUACION%20PRELIMINAR%20%2D%20CAS%20N%C2%B0%20062%2D2025%2DOEDI%2Epdf&parent=%2Fpersonal%2Fadmin%5Foedi%5Fgob%5Fpe%2FDocuments%2FCAS&ga=1',
-      ),
-      1 => 
-      array (
-        'titulo' => 'evaluacion tecnica',
-        'url' => 'https://oedigob-my.sharepoint.com/personal/tecnologia_oedi_gob_pe/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ftecnologia%5Foedi%5Fgob%5Fpe%2FDocuments%2FCONVOCATORIA2025%2FGrupo%2004%2F62%2FRESULTADOS%20DE%20EVALUACION%20T%C3%89CNICA%20%2D%20CAS%20N%C2%B0%20062%2D2025%2DOEDI%2Epdf&parent=%2Fpersonal%2Ftecnologia%5Foedi%5Fgob%5Fpe%2FDocuments%2FCONVOCATORIA2025%2FGrupo%2004%2F62&ga=1',
-      ),
-      2 => 
-      array (
-        'titulo' => 'resultados finales cas',
-        'url' => 'https://oedigob-my.sharepoint.com/personal/admin_oedi_gob_pe/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fadmin%5Foedi%5Fgob%5Fpe%2FDocuments%2FCAS%2FRESULTADOS%20DE%20EVALUACION%20FINALES%5F%20CAS%20062%5FPUBLICACION%2Epdf&parent=%2Fpersonal%2Fadmin%5Foedi%5Fgob%5Fpe%2FDocuments%2FCAS&ga=1',
-      ),
-    ),
-  ),
-  1 => 
-  array (
     'id' => 67,
     'numero' => '067',
     'anio' => '2025',
@@ -64,7 +29,7 @@ $convocatorias = array (
     array (
     ),
   ),
-  2 => 
+  1 => 
   array (
     'id' => 66,
     'numero' => '066',
@@ -84,7 +49,7 @@ $convocatorias = array (
     array (
     ),
   ),
-  3 => 
+  2 => 
   array (
     'id' => 65,
     'numero' => '065',
@@ -104,7 +69,7 @@ $convocatorias = array (
     array (
     ),
   ),
-  4 => 
+  3 => 
   array (
     'id' => 64,
     'numero' => '064',
@@ -124,7 +89,7 @@ $convocatorias = array (
     array (
     ),
   ),
-  5 => 
+  4 => 
   array (
     'id' => 63,
     'numero' => '063',
@@ -144,7 +109,7 @@ $convocatorias = array (
     array (
     ),
   ),
-  6 => 
+  5 => 
   array (
     'id' => 62,
     'numero' => '062',
@@ -184,7 +149,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  7 => 
+  6 => 
   array (
     'id' => 61,
     'numero' => '061',
@@ -229,7 +194,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  8 => 
+  7 => 
   array (
     'id' => 60,
     'numero' => '060',
@@ -279,7 +244,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  9 => 
+  8 => 
   array (
     'id' => 59,
     'numero' => '059',
@@ -319,7 +284,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  10 => 
+  9 => 
   array (
     'id' => 58,
     'numero' => '058',
@@ -369,7 +334,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  11 => 
+  10 => 
   array (
     'id' => 57,
     'numero' => '057',
@@ -409,7 +374,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  12 => 
+  11 => 
   array (
     'id' => 56,
     'numero' => '056',
@@ -459,7 +424,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  13 => 
+  12 => 
   array (
     'id' => 55,
     'numero' => '055',
@@ -499,7 +464,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  14 => 
+  13 => 
   array (
     'id' => 54,
     'numero' => '054',
@@ -544,7 +509,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  15 => 
+  14 => 
   array (
     'id' => 53,
     'numero' => '053',
@@ -584,7 +549,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  16 => 
+  15 => 
   array (
     'id' => 52,
     'numero' => '052',
@@ -624,7 +589,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  17 => 
+  16 => 
   array (
     'id' => 51,
     'numero' => '051',
@@ -669,7 +634,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  18 => 
+  17 => 
   array (
     'id' => 50,
     'numero' => '050',
@@ -714,7 +679,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  19 => 
+  18 => 
   array (
     'id' => 49,
     'numero' => '049',
@@ -764,7 +729,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  20 => 
+  19 => 
   array (
     'id' => 48,
     'numero' => '048',
@@ -804,7 +769,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  21 => 
+  20 => 
   array (
     'id' => 47,
     'numero' => '047',
@@ -844,7 +809,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  22 => 
+  21 => 
   array (
     'id' => 46,
     'numero' => '046',
@@ -874,7 +839,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  23 => 
+  22 => 
   array (
     'id' => 45,
     'numero' => '045',
@@ -914,7 +879,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  24 => 
+  23 => 
   array (
     'id' => 44,
     'numero' => '044',
@@ -954,7 +919,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  25 => 
+  24 => 
   array (
     'id' => 43,
     'numero' => '043',
@@ -999,7 +964,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  26 => 
+  25 => 
   array (
     'id' => 42,
     'numero' => '042',
@@ -1044,7 +1009,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  27 => 
+  26 => 
   array (
     'id' => 41,
     'numero' => '041',
@@ -1089,7 +1054,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  28 => 
+  27 => 
   array (
     'id' => 40,
     'numero' => '040',
@@ -1129,7 +1094,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  29 => 
+  28 => 
   array (
     'id' => 39,
     'numero' => '039',
@@ -1174,7 +1139,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  30 => 
+  29 => 
   array (
     'id' => 38,
     'numero' => '038',
@@ -1214,7 +1179,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  31 => 
+  30 => 
   array (
     'id' => 37,
     'numero' => '037',
@@ -1254,7 +1219,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  32 => 
+  31 => 
   array (
     'id' => 36,
     'numero' => '036',
@@ -1294,7 +1259,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  33 => 
+  32 => 
   array (
     'id' => 35,
     'numero' => '035',
@@ -1329,7 +1294,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  34 => 
+  33 => 
   array (
     'id' => 34,
     'numero' => '034',
@@ -1369,7 +1334,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  35 => 
+  34 => 
   array (
     'id' => 33,
     'numero' => '033',
@@ -1408,7 +1373,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  36 => 
+  35 => 
   array (
     'id' => 32,
     'numero' => '032',
@@ -1447,7 +1412,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  37 => 
+  36 => 
   array (
     'id' => 31,
     'numero' => '031',
@@ -1496,7 +1461,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  38 => 
+  37 => 
   array (
     'id' => 30,
     'numero' => '030',
@@ -1540,7 +1505,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  39 => 
+  38 => 
   array (
     'id' => 29,
     'numero' => '029',
@@ -1584,7 +1549,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  40 => 
+  39 => 
   array (
     'id' => 28,
     'numero' => '028',
@@ -1623,7 +1588,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  41 => 
+  40 => 
   array (
     'id' => 27,
     'numero' => '027',
@@ -1662,7 +1627,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  42 => 
+  41 => 
   array (
     'id' => 26,
     'numero' => '026',
@@ -1701,7 +1666,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  43 => 
+  42 => 
   array (
     'id' => 25,
     'numero' => '025',
@@ -1735,7 +1700,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  44 => 
+  43 => 
   array (
     'id' => 24,
     'numero' => '024',
@@ -1784,7 +1749,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  45 => 
+  44 => 
   array (
     'id' => 23,
     'numero' => '023',
@@ -1833,7 +1798,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  46 => 
+  45 => 
   array (
     'id' => 22,
     'numero' => '022',
@@ -1872,7 +1837,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  47 => 
+  46 => 
   array (
     'id' => 21,
     'numero' => '021',
@@ -1906,7 +1871,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  48 => 
+  47 => 
   array (
     'id' => 20,
     'numero' => '020',
@@ -1940,7 +1905,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  49 => 
+  48 => 
   array (
     'id' => 19,
     'numero' => '019',
@@ -1994,7 +1959,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  50 => 
+  49 => 
   array (
     'id' => 18,
     'numero' => '018',
@@ -2018,7 +1983,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  51 => 
+  50 => 
   array (
     'id' => 17,
     'numero' => '017',
@@ -2057,7 +2022,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  52 => 
+  51 => 
   array (
     'id' => 16,
     'numero' => '016',
@@ -2101,7 +2066,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  53 => 
+  52 => 
   array (
     'id' => 15,
     'numero' => '015',
@@ -2140,7 +2105,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  54 => 
+  53 => 
   array (
     'id' => 14,
     'numero' => '014',
@@ -2184,7 +2149,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  55 => 
+  54 => 
   array (
     'id' => 13,
     'numero' => '013',
@@ -2228,7 +2193,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  56 => 
+  55 => 
   array (
     'id' => 12,
     'numero' => '012',
@@ -2287,7 +2252,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  57 => 
+  56 => 
   array (
     'id' => 11,
     'numero' => '011',
@@ -2321,7 +2286,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  58 => 
+  57 => 
   array (
     'id' => 10,
     'numero' => '010',
@@ -2375,7 +2340,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  59 => 
+  58 => 
   array (
     'id' => 9,
     'numero' => '009',
@@ -2424,7 +2389,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  60 => 
+  59 => 
   array (
     'id' => 8,
     'numero' => '008',
@@ -2483,7 +2448,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  61 => 
+  60 => 
   array (
     'id' => 7,
     'numero' => '007',
@@ -2527,7 +2492,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  62 => 
+  61 => 
   array (
     'id' => 6,
     'numero' => '006',
@@ -2566,7 +2531,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  63 => 
+  62 => 
   array (
     'id' => 5,
     'numero' => '005',
@@ -2595,7 +2560,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  64 => 
+  63 => 
   array (
     'id' => 4,
     'numero' => '004',
@@ -2639,7 +2604,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  65 => 
+  64 => 
   array (
     'id' => 3,
     'numero' => '003',
@@ -2673,7 +2638,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  66 => 
+  65 => 
   array (
     'id' => 2,
     'numero' => '002',
@@ -2732,7 +2697,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  67 => 
+  66 => 
   array (
     'id' => 1,
     'numero' => '001',
@@ -2771,7 +2736,7 @@ $convocatorias = array (
       ),
     ),
   ),
-  68 => 
+  67 => 
   array (
     'id' => 0,
     'numero' => '000',
