@@ -14,6 +14,7 @@ $convocatorias = [
         'anio' => '2025',
         'fecha_publicacion' => '22/04/2025',
         'puesto' => 'UN/A ANALISTA EN TECNOLOGÍAS DE INFORMACIÓN',
+        'categoria' => 'Tecnología',
         'bases_anexos' => [
             [
                 'titulo' => 'ANEXO A BASES DEL PROCESO DE SELECCIÓN SECCIÓN ESPECÍFICA',
@@ -27,6 +28,7 @@ $convocatorias = [
         'anio' => '2025',
         'fecha_publicacion' => '22/04/2025',
         'puesto' => 'UN/A ANALISTA EN ADMINISTRACIÓN DE SERVIDORES Y REDES INFORMÁTICAS',
+        'categoria' => 'Tecnología',
         'bases_anexos' => [
             [
                 'titulo' => 'ANEXO A BASES DEL PROCESO DE SELECCIÓN SECCIÓN ESPECÍFICA',
@@ -40,6 +42,7 @@ $convocatorias = [
         'anio' => '2025',
         'fecha_publicacion' => '22/04/2025',
         'puesto' => 'UN/A ANALISTA II EN TESORERÍA',
+        'categoria' => 'Finanzas',
         'bases_anexos' => [
             [
                 'titulo' => 'ANEXO A BASES DEL PROCESO DE SELECCIÓN SECCIÓN ESPECÍFICA',
@@ -53,6 +56,7 @@ $convocatorias = [
         'anio' => '2025',
         'fecha_publicacion' => '22/04/2025',
         'puesto' => 'UN/A ANALISTA ADMINISTRATIVO',
+        'categoria' => 'Administración',
         'bases_anexos' => [
             [
                 'titulo' => 'ANEXO A BASES DEL PROCESO DE SELECCIÓN SECCIÓN ESPECÍFICA',
@@ -66,6 +70,7 @@ $convocatorias = [
         'anio' => '2025',
         'fecha_publicacion' => '22/04/2025',
         'puesto' => 'UN/A COORDINADOR/A EN TECNOLOGÍAS DE LA INFORMACIÓN',
+        'categoria' => 'Tecnología',
         'bases_anexos' => [
             [
                 'titulo' => 'ANEXO A BASES DEL PROCESO DE SELECCIÓN SECCIÓN ESPECÍFICA',
@@ -79,6 +84,7 @@ $convocatorias = [
         'anio' => '2025',
         'fecha_publicacion' => '01/04/2025',
         'puesto' => 'UN/A ASESOR/A LEGAL',
+        'categoria' => 'Legal',
         'bases_anexos' => [
             [
                 'titulo' => 'ANEXO A BASES DEL PROCESO DE SELECCIÓN SECCIÓN ESPECÍFICA',
@@ -109,6 +115,7 @@ $convocatorias = [
         'anio' => '2025',
         'fecha_publicacion' => '01/04/2025',
         'puesto' => 'UN/A ASESOR/A ADMINISTRATIVO',
+        'categoria' => 'Administración',
         'bases_anexos' => [
             [
                 'titulo' => 'ANEXO A BASES DEL PROCESO DE SELECCIÓN SECCIÓN ESPECÍFICA',
@@ -143,6 +150,7 @@ $convocatorias = [
         'anio' => '2025',
         'fecha_publicacion' => '01/04/2025',
         'puesto' => 'UN/A ESPECIALISTA EN GESTIÓN DOCUMENTAL Y ATENCIÓN AL USUARIO',
+        'categoria' => 'Gestión',
         'bases_anexos' => [
             [
                 'titulo' => 'ANEXO A BASES DEL PROCESO DE SELECCIÓN SECCIÓN ESPECÍFICA',
@@ -181,6 +189,7 @@ $convocatorias = [
         'anio' => '2025',
         'fecha_publicacion' => '26/03/2025',
         'puesto' => 'UN/A ESPECIALISTA BIM',
+        'categoria' => 'Tecnología',
         'bases_anexos' => [
             [
                 'titulo' => 'ANEXO A BASES DEL PROCESO DE SELECCIÓN SECCIÓN ESPECÍFICA',
@@ -211,6 +220,7 @@ $convocatorias = [
         'anio' => '2025',
         'fecha_publicacion' => '26/03/2025',
         'puesto' => 'UN/A COORDINADOR/A DE EXPEDIENTES TÉCNICOS',
+        'categoria' => 'Tecnología',
         'bases_anexos' => [
             [
                 'titulo' => 'ANEXO A BASES DEL PROCESO DE SELECCIÓN SECCIÓN ESPECÍFICA',
@@ -249,6 +259,7 @@ $convocatorias = [
         'anio' => '2025',
         'fecha_publicacion' => '24/03/2025',
         'puesto' => 'UN/A ESPECIALISTA EN ASISTENCIA TÉCNICA EN INSTALACIONES SANITARIAS',
+        'categoria' => 'Tecnología',
         'bases_anexos' => [
             [
                 'titulo' => 'ANEXO A BASES DEL PROCESO DE SELECCIÓN SECCIÓN ESPECÍFICA',
@@ -279,6 +290,7 @@ $convocatorias = [
         'anio' => '2025',
         'fecha_publicacion' => '24/03/2025',
         'puesto' => 'UN/A ESPECIALISTA EN ASISTENCIA TÉCNICA DE ARQUITECTURA',
+        'categoria' => 'Arquitectura',
         'bases_anexos' => [
             [
                 'titulo' => 'ANEXO A BASES DEL PROCESO DE SELECCIÓN SECCIÓN ESPECÍFICA',
@@ -317,6 +329,7 @@ $convocatorias = [
         'anio' => '2025',
         'fecha_publicacion' => '20/03/2025',
         'puesto' => 'UN/A ASISTENTE ADMINISTRATIVO',
+        'categoria' => 'Administración',
         'bases_anexos' => [
             [
                 'titulo' => 'ANEXO A BASES DEL PROCESO DE SELECCIÓN SECCIÓN ESPECÍFICA',
@@ -347,6 +360,7 @@ $convocatorias = [
         'anio' => '2025',
         'fecha_publicacion' => '10/03/2025',
         'puesto' => 'UN/A ASESOR/A LEGAL',
+        'categoria' => 'Legal',
         'bases_anexos' => [
             [
                 'titulo' => 'ANEXO A BASES DEL PROCESO DE SELECCIÓN SECCIÓN ESPECÍFICA',
@@ -381,6 +395,7 @@ $convocatorias = [
         'anio' => '2025',
         'fecha_publicacion' => '06/03/2025',
         'puesto' => 'UN/A EXPERTO/A EN PRESUPUESTO',
+        'categoria' => 'Finanzas',
         'bases_anexos' => [
             [
                 'titulo' => 'ANEXO A BASES DEL PROCESO DE SELECCIÓN SECCIÓN ESPECÍFICA',
@@ -411,6 +426,7 @@ $convocatorias = [
         'anio' => '2025',
         'fecha_publicacion' => '06/03/2025',
         'puesto' => 'UN/A COORDINADOR/A DE PRESUPUESTO',
+        'categoria' => 'Finanzas',
         'bases_anexos' => [
             [
                 'titulo' => 'ANEXO A BASES DEL PROCESO DE SELECCIÓN SECCIÓN ESPECÍFICA',
@@ -441,6 +457,7 @@ $convocatorias = [
         'anio' => '2025',
         'fecha_publicacion' => '04/03/2025',
         'puesto' => 'UN/A ESPECIALISTA EN PATRIMONIO Y ALMACÉN',
+        'categoria' => 'Administración',
         'bases_anexos' => [
             [
                 'titulo' => 'ANEXO A BASES DEL PROCESO DE SELECCIÓN SECCIÓN ESPECÍFICA',
@@ -475,6 +492,7 @@ $convocatorias = [
         'anio' => '2025',
         'fecha_publicacion' => '04/03/2025',
         'puesto' => 'UN/A COORDINADOR/A DE RECURSOS HUMANOS',
+        'categoria' => 'Recursos Humanos',
         'bases_anexos' => [
             [
                 'titulo' => 'ANEXO A BASES DEL PROCESO DE SELECCIÓN SECCIÓN ESPECÍFICA',
@@ -509,6 +527,7 @@ $convocatorias = [
         'anio' => '2025',
         'fecha_publicacion' => '04/03/2025',
         'puesto' => 'UN/A ANALISTA III EN SEGUIMIENTO DE INVERSIONES',
+        'categoria' => 'Inversiones',
         'bases_anexos' => [
             [
                 'titulo' => 'ANEXO A BASES DEL PROCESO DE SELECCIÓN SECCIÓN ESPECÍFICA',
@@ -547,6 +566,7 @@ $convocatorias = [
         'anio' => '2025',
         'fecha_publicacion' => '17/02/2025',
         'puesto' => 'UN/A EXPERTO/A EN MATERIA LEGAL RELACIONADA A LA GESTIÓN PÚBLICA Y DERECHO ADMINISTRATIVO',
+        'categoria' => 'Legal',
         'bases_anexos' => [
             [
                 'titulo' => 'ANEXO A BASES DEL PROCESO DE SELECCIÓN SECCIÓN ESPECÍFICA',
@@ -577,6 +597,7 @@ $convocatorias = [
         'anio' => '2025',
         'fecha_publicacion' => '17/02/2025',
         'puesto' => 'UN/A EXPERTO/A EN MATERIA LEGAL DE CONTRATACIONES',
+        'categoria' => 'Legal',
         'bases_anexos' => [
             [
                 'titulo' => 'ANEXO A BASES DEL PROCESO DE SELECCIÓN SECCIÓN ESPECÍFICA',
@@ -607,6 +628,7 @@ $convocatorias = [
         'anio' => '2025',
         'fecha_publicacion' => '17/02/2025',
         'puesto' => 'ASISTENTE ADMINISTRATIVO',
+        'categoria' => 'Administración',
         'bases_anexos' => [
             [
                 'titulo' => 'ANEXO A BASES DEL PROCESO DE SELECCIÓN SECCIÓN ESPECÍFICA',
@@ -629,6 +651,7 @@ $convocatorias = [
         'anio' => '2025',
         'fecha_publicacion' => '17/02/2025',
         'puesto' => 'COORDINADOR/A DE CONTABILIDAD',
+        'categoria' => 'Finanzas',
         'bases_anexos' => [
             [
                 'titulo' => 'ANEXO A BASES DEL PROCESO DE SELECCIÓN SECCIÓN ESPECÍFICA',
@@ -659,6 +682,7 @@ $convocatorias = [
         'anio' => '2025',
         'fecha_publicacion' => '17/02/2025',
         'puesto' => 'ESPECIALISTA EN TESORERÍA',
+        'categoria' => 'Finanzas',
         'bases_anexos' => [
             [
                 'titulo' => 'ANEXO A BASES DEL PROCESO DE SELECCIÓN SECCIÓN ESPECÍFICA',
@@ -689,6 +713,7 @@ $convocatorias = [
         'anio' => '2025',
         'fecha_publicacion' => '17/02/2025',
         'puesto' => 'ASISTENTE ADMINISTRATIVO',
+        'categoria' => 'Administración',
         'bases_anexos' => [
             [
                 'titulo' => 'ANEXO A BASES DEL PROCESO DE SELECCIÓN SECCIÓN ESPECÍFICA',
@@ -723,6 +748,7 @@ $convocatorias = [
         'anio' => '2025',
         'fecha_publicacion' => '13/02/2025',
         'puesto' => 'ESPECIALISTA EN ASISTENCIA TÉCNICA EN INSTALACIONES ELÉCTRICAS, MECÁNICAS Y CORRIENTES DÉBILES',
+        'categoria' => 'Tecnología',
         'bases_anexos' => [
             [
                 'titulo' => 'ANEXO A BASES DEL PROCESO DE SELECCIÓN SECCIÓN ESPECÍFICA',
@@ -757,6 +783,7 @@ $convocatorias = [
         'anio' => '2025',
         'fecha_publicacion' => '13/02/2025',
         'puesto' => 'ESPECIALISTA EN ASISTENCIA TÉCNICA EN ESTRUCTURAS',
+        'categoria' => 'Tecnología',
         'bases_anexos' => [
             [
                 'titulo' => 'ANEXO A BASES DEL PROCESO DE SELECCIÓN SECCIÓN ESPECÍFICA',
@@ -791,6 +818,7 @@ $convocatorias = [
         'anio' => '2025',
         'fecha_publicacion' => '05/02/2025',
         'puesto' => 'ESPECIALISTA EN GESTIÓN BIM',
+        'categoria' => 'Tecnología',
         'bases_anexos' => [
             [
                 'titulo' => 'ANEXO A BASES DEL PROCESO DE SELECCIÓN SECCIÓN ESPECÍFICA',
@@ -821,6 +849,7 @@ $convocatorias = [
         'anio' => '2025',
         'fecha_publicacion' => '03/02/2025',
         'puesto' => 'COORDINADOR/A DE EXPEDIENTES TÉCNICOS',
+        'categoria' => 'Tecnología',
         'bases_anexos' => [
             [
                 'titulo' => 'ANEXO A BASES DEL PROCESO DE SELECCIÓN SECCIÓN ESPECÍFICA',
@@ -855,6 +884,7 @@ $convocatorias = [
         'anio' => '2025',
         'fecha_publicacion' => '03/02/2025',
         'puesto' => 'ESPECIALISTA EN ASISTENCIA TÉCNICA EN COSTOS, PRESUPUESTOS Y PLANIFICACIÓN DE OBRA',
+        'categoria' => 'Finanzas',
         'bases_anexos' => [
             [
                 'titulo' => 'ANEXO A BASES DEL PROCESO DE SELECCIÓN SECCIÓN ESPECÍFICA',
@@ -885,6 +915,7 @@ $convocatorias = [
         'anio' => '2025',
         'fecha_publicacion' => '31/01/2025',
         'puesto' => 'ESPECIALISTA I EN PLANEAMIENTO',
+        'categoria' => 'Planeamiento',
         'bases_anexos' => [
             [
                 'titulo' => 'ANEXO A BASES DEL PROCESO DE SELECCIÓN SECCIÓN ESPECÍFICA',
@@ -915,6 +946,7 @@ $convocatorias = [
         'anio' => '2025',
         'fecha_publicacion' => '31/01/2025',
         'puesto' => 'EXPERTO/A EN MODERNIZACIÓN',
+        'categoria' => 'Modernización',
         'bases_anexos' => [
             [
                 'titulo' => 'ANEXO A BASES DEL PROCESO DE SELECCIÓN SECCIÓN ESPECÍFICA',
@@ -945,6 +977,7 @@ $convocatorias = [
         'anio' => '2025',
         'fecha_publicacion' => '31/01/2025',
         'puesto' => 'EXPERTO/A EN PRESUPUESTO',
+        'categoria' => 'Finanzas',
         'bases_anexos' => [
             [
                 'titulo' => 'ANEXO A BASES DEL PROCESO DE SELECCIÓN SECCIÓN ESPECÍFICA',
@@ -971,6 +1004,7 @@ $convocatorias = [
         'anio' => '2025',
         'fecha_publicacion' => '31/01/2025',
         'puesto' => 'COORDINADOR/A DE PRESUPUESTO',
+        'categoria' => 'Finanzas',
         'bases_anexos' => [
             [
                 'titulo' => 'ANEXO A BASES DEL PROCESO DE SELECCIÓN SECCIÓN ESPECÍFICA',

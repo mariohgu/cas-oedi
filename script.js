@@ -26,6 +26,35 @@ document.addEventListener('DOMContentLoaded', function() {
   // Ejecutar al cargar la página
   actualizarFechaHora();
   
+  // Manejar cierre de la notificación
+  const btnCloseNotification = document.getElementById('close-notification');
+  if (btnCloseNotification) {
+    btnCloseNotification.addEventListener('click', function() {
+      const notification = this.closest('.bg-yellow-50');
+      if (notification) {
+        // Añadir animación de desvanecimiento
+        notification.style.transition = 'opacity 0.5s';
+        notification.style.opacity = '0';
+        
+        // Eliminar el elemento después de la animación
+        setTimeout(() => {
+          notification.remove();
+        }, 500);
+        
+        // Guardar en localStorage que la notificación fue cerrada
+        localStorage.setItem('notificationClosed', 'true');
+      }
+    });
+    
+    // Verificar si la notificación ya fue cerrada anteriormente
+    if (localStorage.getItem('notificationClosed') === 'true') {
+      const notification = document.querySelector('.bg-yellow-50');
+      if (notification) {
+        notification.style.display = 'none';
+      }
+    }
+  }
+  
   // Animación para enlaces con clases de Tailwind
   document.querySelectorAll('a').forEach(a => {
     // Si no tiene clases de Tailwind para hover, los añadimos
