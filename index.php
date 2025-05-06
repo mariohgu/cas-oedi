@@ -209,6 +209,7 @@ function mostrarAbierta($index) {
       <div>
         <div class="flex items-center gap-2 mb-1">
           <h2 class="text-xl font-bold">CAS N° <?php echo $convocatoria['numero']; ?>-<?php echo $convocatoria['anio']; ?>-OEDI</h2>
+            <span class="font-semibold"><?php echo $convocatoria['puesto']; ?></span>
           <span class="<?php echo $colorEstado; ?> text-xs font-medium px-2.5 py-0.5 rounded">
             <?php echo $estadoConvocatoria; ?>
           </span>
