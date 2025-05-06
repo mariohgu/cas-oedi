@@ -209,12 +209,12 @@ function mostrarAbierta($index) {
       <div>
         <div class="flex items-center gap-2 mb-1">
           <h2 class="text-xl font-bold">CAS N° <?php echo $convocatoria['numero']; ?>-<?php echo $convocatoria['anio']; ?>-OEDI</h2>
-            <span class="font-semibold"><?php echo $convocatoria['puesto']; ?></span>
+            <span class="font-semibold"><?php echo $convocatoria['puesto']; ?></span>          
+        </div>
+        <p class="text-sm text-blue-100">Fecha de publicación: <?php echo $convocatoria['fecha_publicacion']; ?></p>
           <span class="<?php echo $colorEstado; ?> text-xs font-medium px-2.5 py-0.5 rounded">
             <?php echo $estadoConvocatoria; ?>
           </span>
-        </div>
-        <p class="text-sm text-blue-100">Fecha de publicación: <?php echo $convocatoria['fecha_publicacion']; ?></p>
       </div>
       <div class="transform transition-transform duration-300 accordion-icon <?php if(mostrarAbierta($index)) echo 'rotate-180'; ?>">
         <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
